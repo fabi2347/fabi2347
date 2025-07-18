@@ -89,13 +89,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabi2347/fabi2347/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabi2347/fabi2347/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fabi2347/fabi2347/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabi2347/fabi2347/output/pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabi2347/fabi2347/output/pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fabi2347/fabi2347/output/pacman.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/fabi2347/fabi2347/output/snake.svg" alt="Snake animation" />
-
-###
