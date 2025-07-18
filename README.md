@@ -95,3 +95,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/fabi2347/fabi2347/output/snake.svg" alt="Snake animation" />
+
+###
