@@ -81,13 +81,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fabi2347&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=fabi2347&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabi2347/fabi2347/efedcfce80311a6daf7352b97046614fd4d3f4a1/output/pacman.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabi2347/fabi2347/efedcfce80311a6daf7352b97046614fd4d3f4a1/output/pacman.svg">
